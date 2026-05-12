@@ -50,19 +50,23 @@ IndoBERT and BERTopic both use transformer-based contextual embeddings trained o
 
 # Getting Started
 1. Clone the repo
-bashgit clone https://github.com/yourusername/product-review-summarizer.git
-cd product-review-summarizer
+"git clone https://github.com/yourusername/product-review-summarizer.git
+cd product-review-summarizer"
 
 2. Install Dependences
-pip install -r requirements.txt
+"pip install -r requirements.txt"
 
 3. Setup Your API Key
 Create a .env file in the root directory:
-GEMINI_API_KEY=your_api_key_here
+"GEMINI_API_KEY=your_api_key_here"
 
 4. Run The App
-streamlit run shopee_review_sum.py
+"streamlit run shopee_review_sum.py"
 
 # Input Format
 Upload a .csv file with at least one column containing review text in Indonesian. Example:
-commentsProduk bagus banget, pengiriman cepat, seller ramahKualitas oke tapi agak bising kalau dipakai lamaSudah pakai 2 minggu, berfungsi dengan baik semoga awet.
+<bold>comments</bold>
+Produk bagus banget, pengiriman cepat, seller ramah
+Kualitas oke tapi agak bising kalau dipakai lama
+Sudah pakai 2 minggu, berfungsi dengan baik semoga awet.
+
