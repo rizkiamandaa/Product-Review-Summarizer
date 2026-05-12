@@ -177,7 +177,3 @@ product-review-summarizer/
 **Rizki Amanda Putri** — S1 Teknologi Informasi, Universitas Sumatera Utara
 
 ---
-
-## 📄 License
-
-MIT License — feel free to use, modify, and distribute.
