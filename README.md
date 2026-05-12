@@ -10,7 +10,7 @@ An AI-powered system that automatically summarizes Indonesian e-commerce product
 
 | Upload & Analyze | Results |
 |---|---|
-| ![Upload screen](assets/upload.png) | ![Output screen](assets/output_stats.png) |
+| ![Upload screen](assets/upload.png) | ![OutputStats screen](assets/output_stats.png) | ![Output screen](assets/final_output.png) |
 
 > Tested on 714 Indonesian humidifier reviews from Shopee — 89% positive, 7% negative, 4% neutral.
 
@@ -156,12 +156,10 @@ Positive: 89% | Negative: 7% | Neutral: 4%
 product-review-summarizer/
 ├── shopee_review_sum.py   # Main application
 ├── requirements.txt       # Python dependencies
-├── .env                   # API key (not committed)
-├── .gitignore
 ├── README.md
 └── assets/
     ├── upload.png         # Screenshot: upload screen
-    └── output.png         # Screenshot: result screen
+    └── final_output.png         # Screenshot: result screen
 ```
 
 ---
