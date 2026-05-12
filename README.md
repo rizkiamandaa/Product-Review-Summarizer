@@ -10,7 +10,7 @@ An AI-powered system that automatically summarizes Indonesian e-commerce product
 
 | Upload & Analyze | Results |
 |---|---|
-| ![Upload screen](assets/1.Upload.png) | ![Output screen](assets/2.Output&ReviewStatistics.png) |
+| ![Upload screen](assets/1._Upload.png) | ![Output screen](assets/2._Output_&_Review_Statistics.png) |
 
 > Tested on 714 Indonesian humidifier reviews from Shopee — 89% positive, 7% negative, 4% neutral.
 
