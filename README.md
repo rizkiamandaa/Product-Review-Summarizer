@@ -61,7 +61,7 @@ IndoBERT and BERTopic both use transformer-based contextual embeddings trained o
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/yourusername/product-review-summarizer.git
+git clone https://github.com/rizkiamandaa/product-review-summarizer.git
 cd product-review-summarizer
 ```
 
